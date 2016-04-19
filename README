@@ -1,0 +1,10 @@
+1. 
+0000000000400555 T main
+000000000040052d T _Z7averageif
+00000000004004ed T _Z7averagePdRd
+2.
+1 8 
+4 8
+8 8
+8 8
+All pointers are 8 bytes, while the char is only 1 byte, int is 4 bytes, float and double are 8 bytes.
